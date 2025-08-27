@@ -1,5 +1,2 @@
-# metareflection.club
+# [metareflection](https://github.com/metareflection).club
 
-## [Code](code)
-
-## [OpenAI ChatGPT GPTs](openai)
